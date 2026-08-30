@@ -195,6 +195,6 @@ The analysis provides an overview of sales performance across different categori
 
 ## 👨‍💻 Author
 
-**Your Name**
+**WILSON JEBASEELAN J **
 
 ### ⭐ If you find this project useful, consider giving the repository a star!
